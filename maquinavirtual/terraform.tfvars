@@ -1,0 +1,10 @@
+rg_name = "reg-jenkins"
+rg_location ="eastus2"
+#rg_group = 8
+vnet_name = "my-vnet"
+vnet_address_space = ["12.0.0.0/16"]
+subnet_name = "internal"
+subnet_address_prefixes = ["12.0.0.0/20"]
+acr_name = "myACRjenkins"
+acr_sku = "Basic"
+acr_admin_enabled = true
