@@ -1,0 +1,2 @@
+[vm-jenkins]
+jenkins ansible_host=admin@
