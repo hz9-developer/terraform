@@ -1,2 +1,2 @@
 [vm-jenkins]
-jenkins ansible_host=admin@
+hostname ansible_host=testadmin@20.242.97.62
